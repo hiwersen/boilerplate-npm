@@ -14,5 +14,6 @@
 	},
 	"description": "Project to learn npm",
 	"keywords": ["I", "am", "learning", "package.json", "on", "freecodecamp"],
-	"license": "MIT"
+	"license": "MIT",
+	"version": "1.2.0"
 }
