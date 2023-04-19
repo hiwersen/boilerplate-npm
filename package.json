@@ -12,5 +12,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"description": "Project to learn npm"
+	"description": "Project to learn npm",
+	"keywords": ["I", "am", "learning", "package.json", "on", "freecodecamp"]
 }
